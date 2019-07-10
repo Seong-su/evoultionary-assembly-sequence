@@ -5,3 +5,4 @@ authors = ["MNS-DESKTOP <sspark@kmou.ac.kr>"]
 edition = "2018"
 
 [dependencies]
+assimp = "0.3.1"
