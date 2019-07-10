@@ -1,0 +1,7 @@
+[package]
+name = "evolutionary-assembly-sequence"
+version = "0.1.0"
+authors = ["MNS-DESKTOP <sspark@kmou.ac.kr>"]
+edition = "2018"
+
+[dependencies]
